@@ -8,8 +8,8 @@ description = "Implementation of the `embedded-hal` traits for Linux devices"
 keywords = ["Linux", "hal"]
 license = "MIT OR Apache-2.0"
 name = "linux-embedded-hal"
-repository = "https://github.com/rust-embedded/linux-embedded-hal"
-version = "0.4.0"
+repository = "https://github.com/JensKapitza/linux-embedded-hal"
+version = "0.4.1"
 edition = "2018"
 
 [features]
